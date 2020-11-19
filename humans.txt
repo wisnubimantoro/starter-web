@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> Wisnu Bimantoro <twitter>
+    Wisnu Bimantoro
+    dualital@gmail.com
+    Software Engineer
 
 # THANKS
 
