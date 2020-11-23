@@ -3,6 +3,8 @@
 
 Hi, I am modifying the file before rebase.
 
+Hi, Going to insert conflicts in my feature branch.
+
 # TEAM
 
     Wisnu Bimantoro
