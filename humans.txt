@@ -9,7 +9,7 @@
 
 # THANKS
 
-    <name>
+    Thanks to my masters.
 
 # TECHNOLOGY COLOPHON
 
