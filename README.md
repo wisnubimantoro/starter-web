@@ -14,6 +14,7 @@ Fork the Repo and raise pull request for review
 
 ## GIT Comparisons
 Adding GIT comparisons lecture
+Adding new lectures of stash
 
 ## GITHub Content
 Comparison with Repo
